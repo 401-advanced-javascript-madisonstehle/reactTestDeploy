@@ -1,8 +1,17 @@
 section.counter
-  width: 100%
-  height: 60%
-  margin: auto
-  flex: 1 0 auto
-  
+  flex: 1
+  justify-content: space-around
+  align-items: center
+  background-color: $sand
+
   span
-    margin-top: 40px
+    margin: 30px
+    font-size: 3rem
+    width: 75px
+    height: 50px
+    padding: 2px
+  
+  span.up.clicker, span.down.clicker 
+    &:hover
+      background-color: $indigo
+      color: white 
