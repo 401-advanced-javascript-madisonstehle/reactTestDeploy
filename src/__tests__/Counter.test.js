@@ -48,7 +48,3 @@ describe('functionality', () => {
     expect(component.state('polarity')).toBe('positive');
   });
 });
-
-// describe('aesthetics', () => {
-
-// });
