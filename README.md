@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/madisonstehle/reactTestDeploy/pull/1)
 - [ci/cd github actions]()
 - [front-end application]()
 
@@ -14,11 +14,11 @@
 
 #### How to initialize/run the application
 
-<!-- stuff -->
+- `npm start` if running locally
 
 #### Tests
 
-<!-- stuff -->
+- `npm test` will run tests for App and Counter
 
 #### UML
 
