@@ -7,8 +7,6 @@ configure({ adapter: new Adapter() });
 import { shallow, mount } from 'enzyme';
 import Counter from '../components/Counter.js';
 
-// When the state count variable changes, the HTML should update and match that change
-
 describe('functionality', () => {
   it('has initial state values', () => {
     let component = shallow(<Counter />);
