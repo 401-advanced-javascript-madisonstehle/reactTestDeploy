@@ -8,7 +8,7 @@
 
 - [submission PR](https://github.com/madisonstehle/reactTestDeploy/pull/1)
 - [ci/cd github actions]()
-- [netlify](https://stoic-sammet-a3acb4.netlify.app/)
+- [netlify](https://elastic-yalow-2f773f.netlify.app/)
 
 ### Setup
 
