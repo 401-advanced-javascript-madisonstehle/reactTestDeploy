@@ -1,12 +1,30 @@
+$magenta: #A40E4C;
+$indigo: #2C2C54;
+$seafoam: #ACC3A6;
+$sand: #F5D6BA;
+$orange: #F49D6E;
+
+
 * {
   text-align: center;
-  
+
   body, html {
     width: 100%;
+    background-color: $sand;
   
     header, section, footer {
       margin: auto;
       width: 100%;
     }
   }
+}
+
+header {
+  background-color: $indigo;
+  color: white;
+}
+
+footer {
+  background-color: $magenta;
+  color: white;
 }
