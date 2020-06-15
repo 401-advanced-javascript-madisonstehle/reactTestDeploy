@@ -9,6 +9,8 @@
 - [submission PR](https://github.com/madisonstehle/reactTestDeploy/pull/1)
 - [ci/cd github actions]()
 - [netlify](https://elastic-yalow-2f773f.netlify.app/)
+- [aws s3](http://react-test-deploy-401n16.s3-website-us-west-2.amazonaws.com/)
+- [aws amplify](https://master.d3rgknq439yezj.amplifyapp.com/)
 
 ### Setup
 
@@ -22,4 +24,4 @@
 
 #### UML
 
-![Lab 22 UML Diagram]()
+![Lab 22 UML Diagram](./assets/401n16_lab22.jpg)
